@@ -1,0 +1,253 @@
+Provinsi,Tahun,Segmen Pelanggan,Distribusi Listrik (GWh)
+UIW Aceh,2023,Rumah,1.98667
+UIW North Sumatera,2023,Rumah,6.18734
+UIW West Sumatera,2023,Rumah,1.83736
+UIW Riau and Riau Archipelago,2023,Rumah,3.66558
+Riau,2023,Rumah,3.1428
+Kepulauan Riau,2023,Rumah,52277.0
+"UIW South Sumatera, Jambi and Bengkulu",2023,Rumah,5.80119
+Sumatera Selatan,2023,Rumah,3.49416
+Jambi,2023,Rumah,1.50159
+Bengkulu,2023,Rumah,80545.0
+UIW Bangka Belitung,2023,Rumah,82081.0
+UIW Lampung,2023,Rumah,3.23905
+UIW West Kalimantan,2023,Rumah,2.0549
+UIW S and C Kalimantan,2023,Rumah,3.03563
+Kalimantan Selatan,2023,Rumah,1.95032
+Kalimantan Tengah,2023,Rumah,1.08532
+UIW East and North Kalimantan,2023,Rumah,2.72369
+"UIW N, C Sulawesi and Gorontalo",2023,Rumah,2.51765
+Sulawesi Utara,2023,Rumah,1.01027
+Sulawesi Tengah,2023,Rumah,1.05972
+Gorontalo,2023,Rumah,44765.0
+"UIW S, SE and W Sulawesi",2023,Rumah,4.72279
+Sulawesi Selatan,2023,Rumah,3.52489
+Sulawesi Tenggara,2023,Rumah,86159.0
+Sulawesi Barat,2023,Rumah,33631.0
+UIW Maluku and North Maluku,2023,Rumah,87504.0
+Maluku,2023,Rumah,36739.0
+Maluku Utara,2023,Rumah,50765.0
+UIW Papua and West Papua,2023,Rumah,1.18792
+Papua,2023,Rumah,79403.0
+Papua Barat,2023,Rumah,39389.0
+UID Bali,2023,Rumah,2.73818
+UIW West Nusa Tenggara,2023,Rumah,1.60871
+UIW East Nusa Tenggara,2023,Rumah,80883.0
+PT PLN Batam,2023,Rumah,1.0012
+UIW East Java,2023,Rumah,16.00406
+UID Central Java and Yogyakarta,2023,Rumah,15.54824
+Jawa Tengah,2023,Rumah,13.62027
+D.I. Yogyakarta,2023,Rumah,1.92797
+UIW West Java,2023,Rumah,21.85479
+UID Banten,2023,Rumah,6.47533
+UID Jakarta Raya,2023,Rumah,15.64475
+UIW Aceh,2023,Industri,33979.0
+UIW North Sumatera,2023,Industri,3.13713
+UIW West Sumatera,2023,Industri,83960.0
+UIW Riau and Riau Archipelago,2023,Industri,3.21997
+Riau,2023,Industri,3.1806
+Kepulauan Riau,2023,Industri,3937.0
+"UIW South Sumatera, Jambi and Bengkulu",2023,Industri,1.3759
+Sumatera Selatan,2023,Industri,1.11018
+Jambi,2023,Industri,18249.0
+Bengkulu,2023,Industri,8324.0
+UIW Bangka Belitung,2023,Industri,43114.0
+UIW Lampung,2023,Industri,1.19464
+UIW West Kalimantan,2023,Industri,26691.0
+UIW S and C Kalimantan,2023,Industri,93991.0
+Kalimantan Selatan,2023,Industri,74747.0
+Kalimantan Tengah,2023,Industri,19244.0
+UIW East and North Kalimantan,2023,Industri,61636.0
+"UIW N, C Sulawesi and Gorontalo",2023,Industri,63110.0
+Sulawesi Utara,2023,Industri,41745.0
+Sulawesi Tengah,2023,Industri,12186.0
+Gorontalo,2023,Industri,9179.0
+"UIW S, SE and W Sulawesi",2023,Industri,3.13899
+Sulawesi Selatan,2023,Industri,3.00886
+Sulawesi Tenggara,2023,Industri,8306.0
+Sulawesi Barat,2023,Industri,4708.0
+UIW Maluku and North Maluku,2023,Industri,29755.0
+Maluku,2023,Industri,1208.0
+Maluku Utara,2023,Industri,28547.0
+UIW Papua and West Papua,2023,Industri,2423.0
+Papua,2023,Industri,1183.0
+Papua Barat,2023,Industri,1240.0
+UID Bali,2023,Industri,20762.0
+UIW West Nusa Tenggara,2023,Industri,23893.0
+UIW East Nusa Tenggara,2023,Industri,4319.0
+PT PLN Batam,2023,Industri,96306.0
+UIW East Java,2023,Industri,17.16679
+UID Central Java and Yogyakarta,2023,Industri,8.67719
+Jawa Tengah,2023,Industri,8.40815
+D.I. Yogyakarta,2023,Industri,26905.0
+UIW West Java,2023,Industri,25.02644
+UID Banten,2023,Industri,15.81403
+UID Jakarta Raya,2023,Industri,3.99721
+UIW Aceh,2023,Bisnis,63121.0
+UIW North Sumatera,2023,Bisnis,1.99201
+UIW West Sumatera,2023,Bisnis,73029.0
+UIW Riau and Riau Archipelago,2023,Bisnis,1.68334
+Riau,2023,Bisnis,1.3585
+Kepulauan Riau,2023,Bisnis,32484.0
+"UIW South Sumatera, Jambi and Bengkulu",2023,Bisnis,1.78946
+Sumatera Selatan,2023,Bisnis,1.14058
+Jambi,2023,Bisnis,47390.0
+Bengkulu,2023,Bisnis,17498.0
+UIW Bangka Belitung,2023,Bisnis,24942.0
+UIW Lampung,2023,Bisnis,85476.0
+UIW West Kalimantan,2023,Bisnis,69201.0
+UIW S and C Kalimantan,2023,Bisnis,1.03243
+Kalimantan Selatan,2023,Bisnis,66218.0
+Kalimantan Tengah,2023,Bisnis,37025.0
+UIW East and North Kalimantan,2023,Bisnis,1.23309
+"UIW N, C Sulawesi and Gorontalo",2023,Bisnis,82305.0
+Sulawesi Utara,2023,Bisnis,46894.0
+Sulawesi Tengah,2023,Bisnis,24285.0
+Gorontalo,2023,Bisnis,11126.0
+"UIW S, SE and W Sulawesi",2023,Bisnis,1.68934
+Sulawesi Selatan,2023,Bisnis,1.35263
+Sulawesi Tenggara,2023,Bisnis,26149.0
+Sulawesi Barat,2023,Bisnis,7522.0
+UIW Maluku and North Maluku,2023,Bisnis,29110.0
+Maluku,2023,Bisnis,15526.0
+Maluku Utara,2023,Bisnis,13584.0
+UIW Papua and West Papua,2023,Bisnis,50310.0
+Papua,2023,Bisnis,33933.0
+Papua Barat,2023,Bisnis,16377.0
+UID Bali,2023,Bisnis,3.03384
+UIW West Nusa Tenggara,2023,Bisnis,49264.0
+UIW East Nusa Tenggara,2023,Bisnis,31624.0
+PT PLN Batam,2023,Bisnis,1.09716
+UIW East Java,2023,Bisnis,5.93268
+UID Central Java and Yogyakarta,2023,Bisnis,5.06491
+Jawa Tengah,2023,Bisnis,4.17067
+D.I. Yogyakarta,2023,Bisnis,89424.0
+UIW West Java,2023,Bisnis,9.01371
+UID Banten,2023,Bisnis,3.9646
+UID Jakarta Raya,2023,Bisnis,14.00163
+UIW Aceh,2023,Sosial,25110.0
+UIW North Sumatera,2023,Sosial,57689.0
+UIW West Sumatera,2023,Sosial,21724.0
+UIW Riau and Riau Archipelago,2023,Sosial,34245.0
+Riau,2023,Sosial,29671.0
+Kepulauan Riau,2023,Sosial,4574.0
+"UIW South Sumatera, Jambi and Bengkulu",2023,Sosial,43020.0
+Sumatera Selatan,2023,Sosial,26206.0
+Jambi,2023,Sosial,11675.0
+Bengkulu,2023,Sosial,5139.0
+UIW Bangka Belitung,2023,Sosial,6127.0
+UIW Lampung,2023,Sosial,26707.0
+UIW West Kalimantan,2023,Sosial,15976.0
+UIW S and C Kalimantan,2023,Sosial,26797.0
+Kalimantan Selatan,2023,Sosial,17653.0
+Kalimantan Tengah,2023,Sosial,9144.0
+UIW East and North Kalimantan,2023,Sosial,24496.0
+"UIW N, C Sulawesi and Gorontalo",2023,Sosial,22897.0
+Sulawesi Utara,2023,Sosial,10561.0
+Sulawesi Tengah,2023,Sosial,8353.0
+Gorontalo,2023,Sosial,3983.0
+"UIW S, SE and W Sulawesi",2023,Sosial,46261.0
+Sulawesi Selatan,2023,Sosial,37064.0
+Sulawesi Tenggara,2023,Sosial,6377.0
+Sulawesi Barat,2023,Sosial,2819.0
+UIW Maluku and North Maluku,2023,Sosial,7500.0
+Maluku,2023,Sosial,3853.0
+Maluku Utara,2023,Sosial,3647.0
+UIW Papua and West Papua,2023,Sosial,12667.0
+Papua,2023,Sosial,8550.0
+Papua Barat,2023,Sosial,4116.0
+UID Bali,2023,Sosial,21003.0
+UIW West Nusa Tenggara,2023,Sosial,12564.0
+UIW East Nusa Tenggara,2023,Sosial,9272.0
+PT PLN Batam,2023,Sosial,9017.0
+UIW East Java,2023,Sosial,1.71678
+UID Central Java and Yogyakarta,2023,Sosial,1.74651
+Jawa Tengah,2023,Sosial,1.41882
+D.I. Yogyakarta,2023,Sosial,32769.0
+UIW West Java,2023,Sosial,1.67984
+UID Banten,2023,Sosial,46342.0
+UID Jakarta Raya,2023,Sosial,1.65884
+UIW Aceh,2023,Bangunan Pemerintah,11555.0
+UIW North Sumatera,2023,Bangunan Pemerintah,15868.0
+UIW West Sumatera,2023,Bangunan Pemerintah,8604.0
+UIW Riau and Riau Archipelago,2023,Bangunan Pemerintah,16267.0
+Riau,2023,Bangunan Pemerintah,11924.0
+Kepulauan Riau,2023,Bangunan Pemerintah,4343.0
+"UIW South Sumatera, Jambi and Bengkulu",2023,Bangunan Pemerintah,21040.0
+Sumatera Selatan,2023,Bangunan Pemerintah,12384.0
+Jambi,2023,Bangunan Pemerintah,5412.0
+Bengkulu,2023,Bangunan Pemerintah,3244.0
+UIW Bangka Belitung,2023,Bangunan Pemerintah,3818.0
+UIW Lampung,2023,Bangunan Pemerintah,7691.0
+UIW West Kalimantan,2023,Bangunan Pemerintah,8734.0
+UIW S and C Kalimantan,2023,Bangunan Pemerintah,16003.0
+Kalimantan Selatan,2023,Bangunan Pemerintah,9201.0
+Kalimantan Tengah,2023,Bangunan Pemerintah,6802.0
+UIW East and North Kalimantan,2023,Bangunan Pemerintah,19661.0
+"UIW N, C Sulawesi and Gorontalo",2023,Bangunan Pemerintah,15777.0
+Sulawesi Utara,2023,Bangunan Pemerintah,5444.0
+Sulawesi Tengah,2023,Bangunan Pemerintah,6258.0
+Gorontalo,2023,Bangunan Pemerintah,4075.0
+"UIW S, SE and W Sulawesi",2023,Bangunan Pemerintah,24620.0
+Sulawesi Selatan,2023,Bangunan Pemerintah,17071.0
+Sulawesi Tenggara,2023,Bangunan Pemerintah,5147.0
+Sulawesi Barat,2023,Bangunan Pemerintah,2402.0
+UIW Maluku and North Maluku,2023,Bangunan Pemerintah,9488.0
+Maluku,2023,Bangunan Pemerintah,5249.0
+Maluku Utara,2023,Bangunan Pemerintah,4239.0
+UIW Papua and West Papua,2023,Bangunan Pemerintah,14981.0
+Papua,2023,Bangunan Pemerintah,9930.0
+Papua Barat,2023,Bangunan Pemerintah,5051.0
+UID Bali,2023,Bangunan Pemerintah,10177.0
+UIW West Nusa Tenggara,2023,Bangunan Pemerintah,5172.0
+UIW East Nusa Tenggara,2023,Bangunan Pemerintah,5413.0
+PT PLN Batam,2023,Bangunan Pemerintah,4481.0
+UIW East Java,2023,Bangunan Pemerintah,47559.0
+UID Central Java and Yogyakarta,2023,Bangunan Pemerintah,40514.0
+Jawa Tengah,2023,Bangunan Pemerintah,32466.0
+D.I. Yogyakarta,2023,Bangunan Pemerintah,8048.0
+UIW West Java,2023,Bangunan Pemerintah,56075.0
+UID Banten,2023,Bangunan Pemerintah,16791.0
+UID Jakarta Raya,2023,Bangunan Pemerintah,1.48222
+UIW Aceh,2023,Penerangan Jalan Umum,13398.0
+UIW North Sumatera,2023,Penerangan Jalan Umum,42080.0
+UIW West Sumatera,2023,Penerangan Jalan Umum,10031.0
+UIW Riau and Riau Archipelago,2023,Penerangan Jalan Umum,13815.0
+Riau,2023,Penerangan Jalan Umum,11471.0
+Kepulauan Riau,2023,Penerangan Jalan Umum,2345.0
+"UIW South Sumatera, Jambi and Bengkulu",2023,Penerangan Jalan Umum,19849.0
+Sumatera Selatan,2023,Penerangan Jalan Umum,14768.0
+Jambi,2023,Penerangan Jalan Umum,4233.0
+Bengkulu,2023,Penerangan Jalan Umum,848.0
+UIW Bangka Belitung,2023,Penerangan Jalan Umum,999.0
+UIW Lampung,2023,Penerangan Jalan Umum,12948.0
+UIW West Kalimantan,2023,Penerangan Jalan Umum,4767.0
+UIW S and C Kalimantan,2023,Penerangan Jalan Umum,8898.0
+Kalimantan Selatan,2023,Penerangan Jalan Umum,6537.0
+Kalimantan Tengah,2023,Penerangan Jalan Umum,2361.0
+UIW East and North Kalimantan,2023,Penerangan Jalan Umum,5220.0
+"UIW N, C Sulawesi and Gorontalo",2023,Penerangan Jalan Umum,8198.0
+Sulawesi Utara,2023,Penerangan Jalan Umum,3867.0
+Sulawesi Tengah,2023,Penerangan Jalan Umum,3238.0
+Gorontalo,2023,Penerangan Jalan Umum,1093.0
+"UIW S, SE and W Sulawesi",2023,Penerangan Jalan Umum,15939.0
+Sulawesi Selatan,2023,Penerangan Jalan Umum,13031.0
+Sulawesi Tenggara,2023,Penerangan Jalan Umum,2156.0
+Sulawesi Barat,2023,Penerangan Jalan Umum,752.0
+UIW Maluku and North Maluku,2023,Penerangan Jalan Umum,1852.0
+Maluku,2023,Penerangan Jalan Umum,782.0
+Maluku Utara,2023,Penerangan Jalan Umum,1070.0
+UIW Papua and West Papua,2023,Penerangan Jalan Umum,1865.0
+Papua,2023,Penerangan Jalan Umum,1240.0
+Papua Barat,2023,Penerangan Jalan Umum,625.0
+UID Bali,2023,Penerangan Jalan Umum,6309.0
+UIW West Nusa Tenggara,2023,Penerangan Jalan Umum,5496.0
+UIW East Nusa Tenggara,2023,Penerangan Jalan Umum,1815.0
+PT PLN Batam,2023,Penerangan Jalan Umum,1339.0
+UIW East Java,2023,Penerangan Jalan Umum,59040.0
+UID Central Java and Yogyakarta,2023,Penerangan Jalan Umum,55399.0
+Jawa Tengah,2023,Penerangan Jalan Umum,48918.0
+D.I. Yogyakarta,2023,Penerangan Jalan Umum,6481.0
+UIW West Java,2023,Penerangan Jalan Umum,42879.0
+UID Banten,2023,Penerangan Jalan Umum,8612.0
+UID Jakarta Raya,2023,Penerangan Jalan Umum,20771.0

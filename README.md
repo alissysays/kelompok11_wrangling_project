@@ -91,27 +91,23 @@ Satuan energi yang menunjukkan total listrik sebesar satu miliar watt yang digun
 
 ## 6. Dataset Transformasi untuk Analisis
 
-- **df_total_melted** – dari df_cust  
+- **df_total_melted** dari df_cust  
   Total distribusi listrik nasional per tahun (format long).
 
-- **df_melt** – dari df_cust  
+- **df_melt** dari df_cust  
   Distribusi GWh per kelompok pelanggan (format long).
 
-- **df_filtered** – dari df_cust  
+- **df_filtered** dari df_cust  
   Distribusi listrik 2023 tanpa baris total.
 
-- **df_box_melted** – dari df_prov  
+- **df_box_melted** dari df_prov  
   Distribusi listrik provinsi 2020–2023 (long format).
 
-- **df_melted** – dari df_pln_gabungan  
+- **df_melted** dari df_pln_gabungan  
   Distribusi listrik 2023 per provinsi per segmen pelanggan.
 
-- **df_merged** – dari df_esdm + df_prov  
+- **df_merged** dari df_esdm + df_prov  
   Gabungan pendapatan listrik (Rp) dan distribusi (GWh) 2023, termasuk rasio Rp/GWh.
 
-- **df_corr_data** – dari df_pln_gabungan  
+- **df_corr_data** dari df_pln_gabungan  
   Dataset GWh enam segmen pelanggan untuk analisis korelasi tahun 2023.
-
----
-
-Dokumen ini digunakan sebagai dokumentasi resmi untuk memahami struktur dataset dan alur transformasi dalam proyek analisis distribusi listrik Indonesia.

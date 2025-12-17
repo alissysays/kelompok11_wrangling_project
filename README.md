@@ -92,22 +92,22 @@ Satuan energi yang menunjukkan total listrik sebesar satu miliar watt yang digun
 ## 6. Dataset Transformasi untuk Analisis
 
 - **df_total_melted** dari df_cust  
-  Total distribusi listrik nasional per tahun (format long).
+  Total distribusi listrik nasional per tahun (format long). Disimpan dalam file berformat CSV Bernama tren konsumsi listrik .csv
 
 - **df_melt** dari df_cust  
-  Distribusi GWh per kelompok pelanggan (format long).
+  Distribusi GWh per kelompok pelanggan (format long). Disimpan dalam file berformat CSV bernama tren konsumsi per pelanggan .csv
 
 - **df_filtered** dari df_cust  
-  Distribusi listrik 2023 tanpa baris total.
+  Distribusi listrik 2023 tanpa baris total. Disimpan dalam file berformat CSV Bernama proporsi_pelanggan.csv
 
 - **df_box_melted** dari df_prov  
-  Distribusi listrik provinsi 2020–2023 (long format).
+  Distribusi listrik provinsi 2020–2023 (long format). Disimpan dalam file berformat CSV bernama konsumsi listrik 2020-2023.csv
 
 - **df_melted** dari df_pln_gabungan  
-  Distribusi listrik 2023 per provinsi per segmen pelanggan.
+  Distribusi listrik 2023 per provinsi per segmen pelanggan. Disimpan dalam file berformat CSV Bernama konsumsi listrik per sektor 2023.csv dan konsumsi listrik per provinsi 2023.csv
 
 - **df_merged** dari df_esdm + df_prov  
-  Gabungan pendapatan listrik (Rp) dan distribusi (GWh) 2023, termasuk rasio Rp/GWh.
+  Gabungan pendapatan listrik (Rp) dan distribusi (GWh) 2023, termasuk rasio Rp/GWh. Disimpan dalam file berformat CSV Bernama rasio pendapatan 2023.csv
 
 - **df_corr_data** dari df_pln_gabungan  
-  Dataset GWh enam segmen pelanggan untuk analisis korelasi tahun 2023.
+  Dataset GWh enam segmen pelanggan untuk analisis korelasi tahun 2023. Disimpan dalam file berformat CSV Bernama corr_data_2023.csv.
